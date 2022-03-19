@@ -117,7 +117,7 @@ a:hover {
 }
 
 .section-padding {
-  padding-top: 7rem;
+  padding-top: 5.5rem;
   padding-bottom: 7rem;
 }
 
@@ -283,8 +283,8 @@ strong {
 -----------------------------------------*/
 .featured-circle {
   border-radius: 100%;
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -334,7 +334,6 @@ strong {
 
 .navbar-nav .nav-link {
   color: var(--p-color);
-  font-weight: var(--font-weight-semibold);
   font-size: var(--menu-font-size);
   padding-top: 15px;
   padding-bottom: 15px;
